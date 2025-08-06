@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Bivash Talukdar
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Bivash Talukdar
 
 🎓 **Civil Engineer Turned QA Enthusiast** | 🧪 **Aspiring QA Engineer** | 💻 **Tech Explorer**
 
