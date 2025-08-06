@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Bivash Talukdar
 
-<!--
-**bivashtalukdar/bivashtalukdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Civil Engineer Turned QA Enthusiast** | 🧪 **Aspiring QA Engineer** | 💻 **Tech Explorer**
 
-Here are some ideas to get you started:
+I come from a diverse academic background with both **B.Tech and M.Tech degrees in Civil Engineering**. While my foundation lies in core engineering, my curiosity and passion for technology led me to start a new chapter in the **IT sector**. My life's purpose and passion is to use technology to empower humanity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently on a journey to become a **QA Engineer**, focusing on:
+
+- 🧪 Web automation using **Playwright** and **JavaScript**
+- 🔗 API testing with **Postman**
+- 🔧 for version control and CI/CD tried using tools like **Git and Github**, **Github Actions**
+- 📚 Learning and upskilling every day!
+
+---
+
+💡 I enjoy combining structured thinking from engineering with real-world software testing to ensure quality, performance, and reliability in modern applications.
+
+🚀 **Check out my repositories** to follow along my progress and feel free to connect or collaborate!
+
+---
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link-here) | ✉️ Email: bivashtalukdar1@gmail.com
+
