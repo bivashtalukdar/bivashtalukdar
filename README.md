@@ -2,13 +2,13 @@
 
 🎓 **Civil Engineer Turned QA Enthusiast** | 🧪 **Aspiring QA Engineer** | 💻 **Tech Explorer**
 
-I come from a diverse academic background with both **B.Tech and M.Tech degrees in Civil Engineering**. While my foundation lies in core engineering, my curiosity and passion for technology led me to start a new chapter in the **IT sector**. My life's purpose and passion is to use technology to empower humanity.
+I come from a diverse academic background with both **B.Tech and M.Tech degrees in Civil Engineering**. While my foundation lies in core engineering, my curiosity and passion for technology led me to start a new chapter in the **IT sector**. My life's mission is to use my engineering mindset to deliver impactful solutions and testing quality software every day.
 
 I’m currently on a journey to become a **QA Engineer**, focusing on:
 
 - 🧪 Web automation using **Playwright** and **JavaScript**
 - 🔗 API testing with **Postman**
-- 🔧 for version control and CI/CD tried using tools like **Git and Github**, **Github Actions**
+- 🔧 Familiar with basic version control system and CI/CD tools like **Git and Github**, **Github Actions**
 - 📚 Learning and upskilling every day!
 
 ---
